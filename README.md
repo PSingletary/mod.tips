@@ -1,2 +1,2 @@
-# website.mod.tips
+# mod.tips
 repo for mod.tips
